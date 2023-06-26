@@ -19,3 +19,16 @@
   - '[aeiouAEIOU]' represents a character set that includes all lowercase and uppercase vowels.
  
 - The REGEXP '^[aeiouAEIOU]' condition checks if the CITY column value begins with any vowel.
+
+# Output:
+- Acme 
+- Addison 
+- Agency 
+- Aguanga 
+- Alanson 
+- Alba 
+- Albany 
+- Albion 
+- Algonac 
+- Aliso Viejo 
+- .....
